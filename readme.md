@@ -4,10 +4,10 @@ After 12 weeks of intense studying this was our final 2 week project used to tes
 
 The Team
 ## Obi-Mob-Kenobi:
-* Axel Elgenstierna
-* Doug Eskelius
-* Liam Wears
-* Nicole Restrup
+- Axel Elgenstierna
+- Doug Eskelius
+- Liam Wears
+- Nicole Restrup
 
 We worked with www.gazzine.com to test a solution for replacing their mobile web page.
 
